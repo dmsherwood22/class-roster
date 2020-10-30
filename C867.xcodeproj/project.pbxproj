@@ -1,0 +1,2 @@
+			dstPath = /usr/share/man/man1/;
+			);
